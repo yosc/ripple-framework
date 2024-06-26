@@ -1,18 +1,6 @@
-
 <img src="/docs/public/assets/img/ripple-header-title.png" alt="Ripple framework" style="margin-top: -70px;" />
 
-
-<a href="https://www.ripple.sdp.vic.gov.au/">
-  <img src="https://img.shields.io/badge/ripple_framework-docs-ef4b5e" alt="ripple docs">
-</a>
-
-<a href="https://www.ripple.sdp.vic.gov.au/storybook">
-  <img src="https://img.shields.io/badge/ripple_framework-storybook-ef4b5e" alt="ripple storybook">
-</a>
-
-<a href="https://github.com/dpc-sdp/ripple-framework/actions/workflows/components.yml">
-  <img src="https://img.shields.io/github/actions/workflow/status/dpc-sdp/ripple-framework/main.yml" alt="build status">
-</a>
+<a href="https://www.ripple.sdp.vic.gov.au/"><img src="https://img.shields.io/badge/ripple_framework-docs-ef4b5e" alt="ripple docs"></a> <a href="https://www.ripple.sdp.vic.gov.au/storybook"><img src="https://img.shields.io/badge/ripple_framework-storybook-ef4b5e" alt="ripple storybook"></a> <a href="https://github.com/dpc-sdp/ripple-framework/actions/workflows/components.yml"><img src="https://img.shields.io/github/actions/workflow/status/dpc-sdp/ripple-framework/main.yml" alt="build status"></a>
 
 
 # Ripple 2.0
